@@ -1,7 +1,6 @@
-# Merge_conflicts
-This is second line
-This is for Merge conflicts
-Test 1
-Test 2
+# Merge_conflicts <br>
+This is second line <br>
+This is for Merge conflicts <br>
+Test 1 <br>
 Test 3
 
